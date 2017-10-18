@@ -1,4 +1,4 @@
-TestFolder
+Bouncy Ball Game
 ==========
 Small game written in python 2.7
 
